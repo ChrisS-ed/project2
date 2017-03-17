@@ -1,10 +1,8 @@
-CodeClan course: Project 2 (group project)
+CodeClan course: Project 2 - Flightr hotel and flight booking app
 
-Created with: Oscar Brooks, Michael MacLeod, Nick Riddell
+Group project created with: Oscar Brooks, Michael MacLeod, Nick Riddell
 
 Project Definition:
-
-Flightr
 
 A new start-up Flightr, has spotted a niche in the Flight + Hotel comparison web app market. It realises it can simultaneously compare flights and hotels to offer the best package possible.
 
